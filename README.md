@@ -4,6 +4,7 @@
 
 ```
 python3 ~/vcs_version_check.py ~/hoge_ws/hoge.repos ~/hoge_ws/src
+or
 python3 ~/vcs_version_check.py ~/hoge_ws/hoge.repos ~/hoge_ws/src --no_fetch  # speedy
 ```
 
